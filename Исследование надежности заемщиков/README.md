@@ -9,7 +9,7 @@
 Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
 
 
-Смотрим проект по: **[ссылке]([https://codepen.io/Aleonaaleona/pen/gOPyrJQ](https://github.com/Alie-in-Wonderland/data-analyst-projects/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2/nadezhnost'%20zayemshchikov.ipynb))**.
+Смотрим проект по: **[ссылке]([https://github.com/Alie-in-Wonderland/data-analyst-projects/blob/e8aeac784cfff477aa9b52e40d14030169a8e4c0/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2/nadezhnost'%20zayemshchikov.ipynb))**.
 
 
 
