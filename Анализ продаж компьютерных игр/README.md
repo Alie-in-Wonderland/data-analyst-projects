@@ -1,4 +1,14 @@
-# 
+# Проект "Анализ продаж компьютерных игр"
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Aleonaaleona/pen/gOPyrJQ](https://codepen.io/Aleonaaleona/pen/gOPyrJQ).
+**Цель проекта**: выявить определяющие успешность игры закономерности, для того, чтобы владелец магазина компьютерных игр «Стримчик» смог сделать ставку на потенциально популярный продукт и спланировать рекламные кампании на следующий год.
+
+**Входные данные**: исторические данные о продаже игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation).
+
+
+**[Смотреть проект](https://github.com/Alie-in-Wonderland/data-analyst-projects/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80/sales%20of%20computer%20games.ipynb)**
+
+
+
+
+
 
