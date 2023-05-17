@@ -1,4 +1,9 @@
-# 
+# Проект "Взаимодействие пользователей с карточками статей на Яндекс.Дзен".
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Aleonaaleona/pen/gOPyrJQ](https://codepen.io/Aleonaaleona/pen/gOPyrJQ).
+В данном дашборде рассмотрен выбор пользователей по темам карточек статей и источникам за период с 18:28 24.09.2019 по 19:00 24.09.2019 г.
+
+Дашбор содержит фильтры по времени совершения события, темам карточек и возрастной группе.
+
+
+**[Смотреть дашборд](https://public.tableau.com/app/profile/aleona3710/viz/YandexZen_16786435537590/_?publish=yes)**
 
