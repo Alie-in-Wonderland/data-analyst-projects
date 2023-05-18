@@ -1,4 +1,6 @@
-# 
+# Проекты по направлению "Аналитик данных".
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Aleonaaleona/pen/gOPyrJQ](https://codepen.io/Aleonaaleona/pen/gOPyrJQ).
+
+| Название проекта | Ссылка | Описание | Инструменты |
+|------------------|--------|----------|-------------|
 
